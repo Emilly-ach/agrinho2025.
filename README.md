@@ -1,4 +1,4 @@
-#A Essencial Conexão entre o Verde Campo e o Cinza da Cidade
+A Essencial Conexão entre o Verde Campo e o Cinza da Cidade
 
 Projeto: Agrinho 2025 - Festejando Conexão Campo Cidade
 Este projeto é uma página web informativa e interativa desenvolvida para celebrar e explorar a essencial conexão entre o campo e a cidade. Através de um design visual e conteúdo claro, o site destaca a importância dessa união para um futuro sustentável e próspero para todos.
